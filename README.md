@@ -1,4 +1,4 @@
-# Premimum car blog
+# Premium car blog
 Одностраничный сайт, посвященный автомобилям
 ### Стек:
 HTML5, CSS3
